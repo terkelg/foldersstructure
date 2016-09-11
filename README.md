@@ -1,5 +1,6 @@
 # Folders Structure
-OS X Automator workflow for creating project folders structure for interactive designers.
+macOS Automator workflow to scaffold a new project directory structure.
+Go ahead, start organized!
 
 ### Installation
 Unzip and put Create Folders Structure.workflow into ~/Library/Services
